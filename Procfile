@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node package-lock.json
